@@ -1,0 +1,10 @@
+<RCC>
+    <qresource>
+      <file>images/new.png</file>
+      <file>images/circle.png</file>
+      <file>images/rect.png</file>
+      <file>images/triangle.png</file>
+      <file>images/CURSOR_MoveToRotatePoint.cur</file>
+      <file>images/CURSOR_MoveToRotatePointandOption.cur</file>
+    </qresource>
+</RCC>
